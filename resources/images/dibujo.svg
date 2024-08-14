@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="544.53125"
+     inkscape:cy="656.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="1920"
+     inkscape:window-y="138"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1625" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="ellipse13518"
+       transform="translate(-1.95206,-4.969655)">
+      <path
+         style="color:#000000;fill:#502d16;stroke-width:0.0120246;-inkscape-stroke:none"
+         d="m 189.77293,137.79439 c 0,86.67458 -0.0196,85.8838 -86.37001,85.88379 -86.129223,-1e-5 -86.369999,0.13545 -86.369999,-85.88379 0,-86.510676 -0.711305,-85.883792 86.369999,-85.883799 86.7335,-7e-6 86.37001,0.290003 86.37001,85.883799 z"
+         id="path16604"
+         sodipodi:nodetypes="sssss" />
+      <path
+         style="color:#000000;fill:#000000;-inkscape-stroke:none"
+         d="m 103.40234,51.904297 c -47.704015,0 -86.374996,38.455093 -86.374996,85.890623 0,47.43553 38.670981,85.88867 86.374996,85.88867 47.70402,0 86.37696,-38.45314 86.37696,-85.88867 0,-47.43553 -38.67294,-85.890623 -86.37696,-85.890623 z m 0,0.01172 c 47.69756,0 86.36524,38.44991 86.36524,85.878903 0,47.429 -38.66768,85.87695 -86.36524,85.87695 -47.697553,0 -86.363278,-38.44795 -86.363278,-85.87695 0,-47.428993 38.665725,-85.878903 86.363278,-85.878903 z"
+         id="path16606" />
+    </g>
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0109288;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path13195"
+       cx="98.866661"
+       cy="132.85863"
+       rx="78.499535"
+       ry="78.05764"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1359"
+       style="color:#000000;fill:#2f251b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;stroke-opacity:1;-inkscape-stroke:none"
+       d="M 440.93945,440.51562 562.39648,295.76953 c -9.98176,-8.38146 -20.52186,-16.11236 -31.63476,-23.04687 -23.07005,-14.4067 -48.12171,-25.34975 -74.46094,-32.47266 -23.86756,-6.46386 -48.34534,-9.65853 -72.83789,-9.65625 h -0.01 v 188.97656 h 0.01 c 7.97307,-0.002 15.97334,1.05971 23.44531,3.08399 l 0.0215,0.008 0.0312,0.008 c 8.25146,2.23049 16.38916,5.77638 23.71094,10.34961 l 0.0215,0.0156 0.0156,0.008 c 3.55225,2.21633 6.97682,4.73446 10.23047,7.47265 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path6001"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 440.9707,440.54297 121.45508,-144.75 c -0.01,-0.008 -0.0197,-0.0154 -0.0293,-0.0234 L 440.93945,440.51562 c 0.0106,0.009 0.0207,0.0184 0.0312,0.0274 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5999"
+       style="color:#000000;fill:#c33b2c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 471.57617,493.51758 186.09961,-32.8125 c -3.41389,-19.46375 -8.87149,-38.53333 -16.3789,-56.90235 -10.64807,-26.07894 -25.1579,-50.27593 -43.01368,-71.90625 -10.83743,-13.136 -22.86003,-25.18692 -35.85742,-36.10351 l -121.45508,144.75 c 4.19172,3.53088 8.09338,7.4349 11.54492,11.61914 l 0.0156,0.0137 0.0137,0.0156 c 5.71457,6.92122 10.45671,14.84704 13.80469,23.04687 l 0.008,0.0215 0.008,0.0234 c 2.37235,5.80181 4.11802,11.97901 5.21094,18.23438 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5997"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 471.58203,493.55469 186.09961,-32.8125 c -0.002,-0.0123 -0.004,-0.0248 -0.006,-0.0371 l -186.09961,32.8125 c 0.002,0.0124 0.004,0.0247 0.006,0.0371 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5995"
+       style="color:#000000;fill:#2f251b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 460.92383,553.79492 163.69336,94.51172 c 12.02661,-20.79384 21.3274,-43.06872 27.62695,-66.35547 l 0.008,-0.0234 c 6.46647,-23.87712 9.66109,-48.357 9.65625,-72.85937 2.7e-4,-10.61288 -0.60276,-21.25359 -1.8164,-31.86719 -0.62954,-5.51566 -1.45341,-10.99987 -2.41016,-16.45898 l -186.09961,32.8125 c 0.29527,1.69424 0.56786,3.39164 0.76172,5.09179 v 0.0156 0.0156 c 0.3899,3.40959 0.59187,6.88326 0.5918,10.38477 v 0.0156 0.0156 c 0.002,7.97303 -1.0617,15.97338 -3.08594,23.44531 l -0.008,0.0293 -0.008,0.0234 c -1.98227,7.33326 -5.05225,14.54252 -8.91015,21.20312 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5993"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 460.9043,553.82812 163.69336,94.50782 c 0.006,-0.0102 0.0137,-0.0192 0.0195,-0.0293 L 460.92383,553.79492 c -0.006,0.0111 -0.0131,0.0221 -0.0195,0.0332 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5991"
+       style="color:#000000;fill:#2b9233;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-dasharray:1200, 49.9999;-inkscape-stroke:none"
+       d="m 109.54267,156.94391 17.10438,46.99196 c 0.88681,-0.323 1.76951,-0.65926 2.6448,-1.01699 6.89837,-2.81661 13.29911,-6.65382 19.02106,-11.37657 l 0.004,-0.004 c 6.14488,-5.06964 11.42559,-11.09008 15.65072,-17.85937 0.44023,-0.70481 0.86486,-1.41831 1.28054,-2.13682 l -43.31052,-25.0052 c -0.1262,0.21766 -0.24283,0.44204 -0.37569,0.65474 l -0.004,0.006 -0.004,0.006 c -1.34406,2.1542 -3.08817,4.14556 -5.05706,5.76967 l -0.004,0.002 -0.006,0.004 c -1.83124,1.51198 -3.92622,2.76668 -6.09576,3.6525 l -0.006,0.002 -0.006,0.002 c -0.27389,0.11199 -0.55741,0.20673 -0.83715,0.30851 z"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5989"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 414.02344,593.17578 64.64258,177.60547 c 0.0122,-0.004 0.0249,-0.007 0.0371,-0.0117 L 414.05664,593.16211 c -0.0113,0.004 -0.022,0.01 -0.0332,0.0137 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5987"
+       style="color:#000000;fill:#c33b2c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 352.83984,593.20117 -64.63281,177.57422 c 11.66522,4.24473 23.61398,7.73271 35.79492,10.38281 30.115,6.56073 60.9038,8.03198 91.26172,4.57032 21.64982,-2.46867 42.91354,-7.48793 63.40235,-14.94727 L 414.02344,593.17578 c -6.47501,2.35277 -13.30796,4.01685 -20.16602,4.79883 -9.90678,1.12966 -20.14295,0.61386 -29.63086,-1.45313 l -0.0156,-0.008 h -0.0215 c -3.82236,-0.83104 -7.62552,-1.95695 -11.34961,-3.3125 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5985"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 352.80078,593.18945 -64.63086,177.57227 c 0.0124,0.005 0.0247,0.009 0.0371,0.0137 L 352.83983,593.2012 c -0.0128,-0.005 -0.0263,-0.007 -0.0391,-0.0117 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5983"
+       style="color:#000000;fill:#2f251b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 305.92578,553.85547 -163.65039,94.48242 c 11.05818,19.12934 24.33128,36.86025 39.58008,52.85156 0.006,0.008 0.0154,0.008 0.0215,0.0156 0.004,0.004 0.004,0.0118 0.008,0.0156 20.02393,21.00511 43.18032,38.76382 68.76171,52.6543 0.003,0.002 0.005,0.008 0.008,0.008 12.08325,6.56524 24.62594,12.18654 37.51562,16.87891 l 64.63086,-177.57227 c -4.11091,-1.49847 -8.12484,-3.28395 -11.93945,-5.35742 l -0.0215,-0.0156 -0.0156,-0.008 c -8.10742,-4.4019 -15.74134,-10.24287 -22.16602,-16.98437 l -0.0156,-0.0156 -0.0156,-0.0234 c -4.85685,-5.09183 -9.162,-10.84503 -12.70117,-16.92969 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5981"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 305.9043,553.81836 -163.64844,94.48437 c 0.007,0.0116 0.0128,0.0236 0.0195,0.0352 l 163.65039,-94.48242 c -0.007,-0.0124 -0.0143,-0.0247 -0.0215,-0.0371 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5979"
+       style="color:#000000;fill:#c33b2c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="M 295.29492,493.55859 109.18555,460.74414 c -0.95821,5.46755 -1.78221,10.96209 -2.41211,16.48633 -2.93778,25.76322 -2.31472,51.83547 1.9414,77.54687 4.30528,26.03275 12.29113,51.27228 23.74805,75.04297 0.004,0.008 0.01,0.0159 0.0137,0.0234 0.003,0.008 0.004,0.0139 0.008,0.0215 3.02597,6.28092 6.29665,12.42446 9.77148,18.4375 L 305.9043,553.81836 c -1.14095,-1.96373 -2.20426,-3.96089 -3.17774,-5.98242 l -0.008,-0.0234 -0.0137,-0.0215 c -3.60693,-7.48022 -6.18971,-15.64913 -7.54492,-23.84375 l -0.008,-0.008 v -0.0156 c -1.36201,-8.22388 -1.57819,-16.86485 -0.61914,-25.27539 0.19379,-1.69951 0.4666,-3.39623 0.76172,-5.08985 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5977"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="M 295.29883,493.52344 109.19141,460.70703 c -0.002,0.0123 -0.004,0.0248 -0.006,0.0371 l 186.10937,32.81445 c 0.002,-0.0116 0.002,-0.0235 0.004,-0.0351 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5975"
+       style="color:#000000;fill:#2f251b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;stroke-opacity:1;-inkscape-stroke:none"
+       d="M 325.89844,440.54297 204.44141,295.79688 c -12.98936,10.90912 -25.00631,22.94976 -35.83789,36.07617 -0.006,0.007 -0.008,0.0143 -0.0137,0.0215 -0.005,0.005 -0.0111,0.0103 -0.0156,0.0156 -17.83925,21.61353 -32.34067,45.79263 -42.98438,71.84765 -7.51713,18.38382 -12.98166,37.46846 -16.39843,56.94922 l 186.10742,32.81641 c 1.09286,-6.25677 2.84002,-12.43521 5.21289,-18.23828 l 0.008,-0.0234 0.008,-0.0215 c 3.348,-8.19983 8.08231,-16.12565 13.79688,-23.04687 l 0.0156,-0.0156 0.0137,-0.0156 c 3.45166,-4.1844 7.35301,-8.08816 11.54492,-11.61914 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5973"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="M 325.92969,440.51758 204.47266,295.76953 c -0.0106,0.009 -0.0206,0.0184 -0.0312,0.0274 l 121.45703,144.74609 c 0.0103,-0.009 0.021,-0.0168 0.0312,-0.0254 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5971"
+       style="color:#000000;fill:#c33b2c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 383.41602,230.59375 h -0.0137 c -24.49783,-0.002 -48.9713,3.19544 -72.84375,9.66211 -26.33054,7.12153 -51.36813,18.05828 -74.43164,32.45898 -0.005,0.003 -0.0111,0.005 -0.0156,0.008 -0.008,0.005 -0.0139,0.009 -0.0215,0.0137 -11.10543,6.93133 -21.64104,14.65726 -31.61718,23.0332 l 121.45703,144.74805 c 3.2538,-2.73835 6.67805,-5.25817 10.23047,-7.47461 l 0.0215,-0.006 0.0234,-0.0156 c 7.32176,-4.57322 15.45751,-8.11912 23.70898,-10.3496 l 0.0234,-0.008 0.0293,-0.008 c 7.47135,-2.02411 15.46314,-3.08818 23.43554,-3.08594 h 0.002 0.0117 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path5969"
+       style="color:#000000;fill:#ff0000;fill-rule:evenodd;stroke-width:3.77953;stroke-dasharray:4535.43, 188.976;-inkscape-stroke:none"
+       d="m 383.41602,230.59375 v 188.97656 h 0.0176 0.0195 V 230.59375 Z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.45028,134.6897 V 46.934642"
+       id="path1963"
+       inkscape:transform-center-y="-43.881751"
+       inkscape:tile-cx="93.559129"
+       inkscape:tile-cy="140.06369"
+       inkscape:tile-w="0.0099999995"
+       inkscape:tile-h="87.755056"
+       inkscape:tile-x0="93.554129"
+       inkscape:tile-y0="52.304411"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#8d7d39;fill-opacity:1;stroke:#000000;stroke-width:0.00891852;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path9626"
+       cx="101.24831"
+       cy="134.4726"
+       r="24.082287"
+       inkscape:export-filename="/home/mschmidt/Documentos/Proyectos/Apuestas/La casa siempre gana HTML/resources/images/icono3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>House Wins!</title>
+    <link rel="icon" type="image/x-icon" href="resources/images/icono4.png">
+    <link rel="stylesheet" href="resources/css/ruleta.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <meta charset="utf-8">
+    <meta name="author" content="Mateo Guerrero Schmidt">
+</head>
+
+<body>
+    <h1>La Casa Siempre Gana</h1>
+    <div style="float: left; width: 57%;">
+        <h2 id=texto_apuesta> Apuesta:</h2>
+        <h2 id=texto_resultado> Resultado: </h2>
+        <h2 id=texto_monedas> Monedas: </h2>
+    </div>
+    <div style="float: left; width: 38%">
+        <h2><ins>To Do:</ins></h2>
+        <ul>
+            <li>Hacer que los multiplicadores funcionen &#9989</li>
+            <li>Hacer que los multiplicadores se bloqueen cuando no hay suficientes monedas &#9989</li>
+            <li>Crear numeros de manera automatica &#9989</li>
+            <li>Crear multiplicadores de manera automatica &#9989</li>
+            <li>Modificar el tamaño de los numero segun la cantidad que haya &#9989</li>
+            <li>Modificar posicion de los objetos al cambiar el tamaño de la ventana</li>
+            <li>Agregar funcionalidad del doble 0 (el nro -1 es el doble 0)</li>
+            <li>Bloquear boton apostar si no hay apuesta seleccionada</li>
+            <li>Bloquear boton apostar si no hay mas plata</li>
+            <li>Boton para reiniciar</li>
+            <li>Reajustar todos los tamaños para que queden en %</li>
+            <li>Cambiar todas las variables para que queden en config</li>
+            <li>Añadir apuesta al rojo o al negro</li>
+            <li>Añadir lista de puntajes</li>
+            <li>Añadir animacion de ruleta</li>
+            <li>Añadir animacion de ganar y perder plata</li>
+            <li>Añadir sonidos</li>
+            <li>Añadir graficos de lineas (usar plotly)</li>
+            <li>Hacer mas lindo</li>
+        </ul>
+
+    </div>
+
+    <form style="position:absolute; left:250px; height:100%; width: 100%;">  <!--Acá estoy definiendo el tamaño
+                                                    del form para que ocupe toda la pantalla. Se puede cambiar-->
+        <div id="ruleta" class="tapete"></div>
+
+        <div id="multiplicadores" class="multiplicadores"></div>
+
+        <div>
+            <button type="submit" style="position: absolute; left:315px; top:335px">Apostar</button>
+        </div>
+
+    
+
+
+    </form>
+    <script src="resources/js/config.js"></script>
+    <script src="resources/js/ruleta.js"></script>
+
+
+</body>

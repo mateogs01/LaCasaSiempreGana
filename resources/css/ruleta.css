@@ -1,0 +1,82 @@
+@font-face {
+    font-family: LMRoman10;
+    src: url("lmroman10-bold.otf") format("opentype");
+}
+
+body {
+    background-color: palegoldenrod;
+}
+
+.tapete {
+    position: absolute;
+    /*left: calc(var(--x) * 200px + 50px);*/
+    background-color: darkgreen;
+    width: 200px;
+    height: 100%;
+}
+
+.multiplicadores {
+    position: relative;
+    /*left: calc(var(--x) * 200px + 25px);*/
+    left: 300px;
+    background-color: rgb(41, 22, 18);
+    width: 105px;
+    height: 370px;
+}
+
+input[type="radio"] {
+    display: none;
+    &:not(:disabled) ~ label {
+        cursor: pointer;
+    }
+    &:disabled ~ label {
+    color: hsla(150, 5%, 75%, .5);
+    border-color: hsla(150, 5%, 75%, .5);
+    box-shadow: none;
+    cursor: not-allowed;
+    }
+}
+
+.btn {
+    box-sizing: border-box;
+    position: absolute;
+
+    border: 5px solid;
+    border-radius: 10px;
+    background: hsla(0,0,0,0);
+    color: rgb(255, 255, 255);
+
+    line-height: 100%; /* Sirve para mover la altura del texto */
+    font-family: LMRoman10;
+    text-align: center;
+    text-decoration: none;
+}
+
+.v {
+    color: #04AA6D;
+    border-color: #04AA6D;
+}
+.r {
+    color: #b10f3d;
+    border-color: #b10f3d;
+}
+.n {
+    color: #202020;
+    border-color: #202020;
+}
+.multiplicador {
+    color: rgb(184, 156, 114);
+    border-color: rgb(184, 156, 114);
+}
+
+input[type="radio"]:checked + label {
+    background-color: rgba(150,150,70,.5);
+    border-color: rgba(150,150,70,1);
+    color: #04AA6D;
+
+    &::after {
+        background-color: rgba(150,150,70,.5);
+
+    }
+
+}
